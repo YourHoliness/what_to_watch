@@ -1,3 +1,5 @@
 Flask
 python-dotenv
 flask_sqlalchemy
+Flask-WTF
+Flask-Migrate
